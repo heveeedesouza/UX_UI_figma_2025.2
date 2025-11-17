@@ -19,6 +19,9 @@ Este repositório reúne conteúdos, materiais de apoio e links úteis para auxi
 
 ## 📚 Guia de Recursos
 
+###🎨Syle Guide 
+Adicionar aqui link do style guide que vamos usar no curso
+
 ### 🔧 Ferramentas para UX (Protótipos)
 - [UX Tools – Prototyping](https://uxtools.co/tools/prototyping)
 
