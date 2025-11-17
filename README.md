@@ -31,8 +31,8 @@ Adicionar aqui link do style guide que vamos usar no curso
 
 ### 🎨 Paletas de Cores
 Para criar **assets (components)** e mudar as cores de diversos objetos de uma única vez (basta que os objetos tenham a mesma cor hexadecimal).
-A palheta de cores da Adobe pode te ajudar:
-- [Adobe Color](https://color.adobe.com/pt/create)  
+
+- [Adobe Color](https://color.adobe.com/pt/create)  *(A palheta de cores da Adobe pode te ajudar)*
 - [Colors.lol](https://colors.lol/)  
 - [Coolors](https://coolors.co)
 
