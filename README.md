@@ -1,5 +1,6 @@
 # UX_UI_figma_2025.2 🎨✨
-                                                **SEMAC 2025**
+
+**SEMAC 2025**
 Minicurso de **User Experience (UX)** e **User Interface (UI)** em protótipos com **Figma**
 
 Este repositório reúne conteúdos, materiais de apoio e links úteis para auxiliar no aprendizado e prática de design de interfaces e prototipagem.
