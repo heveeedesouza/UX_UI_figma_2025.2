@@ -75,4 +75,4 @@ Este repositório serve como **guia prático** os estudantes que desejam:
 ---
 
 ## 📌 Observação
-Este material é de apoio ao minicurso e pode ser expandido com novos links e referências ao longo do semestre. Contribuições são bem-vindas! 🎉
+Este material é de apoio ao minicurso e pode ser expandido com novos links e referências ao longo do tempo.
