@@ -77,7 +77,7 @@ Este repositório serve como **guia prático** os estudantes que desejam:
 
 ---
 ### Peojeto Protótipo figma
-- [Acesse o projeto no figma](](https://www.figma.com/design/bcPCZji3esBPzMBHgcSpZe/ITAfy---X-SEMAC?node-id=0-1&p=f&t=UFdHxtgbITG0oY6x-0))
+- [Acesse o projeto no figma](https://www.figma.com/design/bcPCZji3esBPzMBHgcSpZe/ITAfy---X-SEMAC?node-id=0-1&p=f&t=UFdHxtgbITG0oY6x-0)
 
 
 ## 📌 Observação
