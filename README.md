@@ -76,6 +76,9 @@ Este repositório serve como **guia prático** os estudantes que desejam:
 - Desenvolver protótipos funcionais e esteticamente agradáveis no **Figma**.  
 
 ---
+### Peojeto Protótipo figma
+- [Acesse o projeto no figma](](https://www.figma.com/design/bcPCZji3esBPzMBHgcSpZe/ITAfy---X-SEMAC?node-id=0-1&p=f&t=UFdHxtgbITG0oY6x-0))
+
 
 ## 📌 Observação
 Este material é de apoio ao minicurso e pode ser expandido com novos links e referências ao longo do tempo.
