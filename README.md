@@ -19,6 +19,9 @@ Este repositório reúne conteúdos, materiais de apoio e links úteis para auxi
 
 ## 📚 Guia de Recursos
 
+### Protótipo figma
+- [Acesse o projeto no figma](https://www.figma.com/design/bcPCZji3esBPzMBHgcSpZe/ITAfy---X-SEMAC?node-id=0-1&p=f&t=UFdHxtgbITG0oY6x-0)
+
 ### 🎨 Syle Guide 
 Adicionar aqui link do style guide que vamos usar no curso
 
@@ -76,8 +79,6 @@ Este repositório serve como **guia prático** os estudantes que desejam:
 - Desenvolver protótipos funcionais e esteticamente agradáveis no **Figma**.  
 
 ---
-### Perjeto Protótipo figma
-- [Acesse o projeto no figma](https://www.figma.com/design/bcPCZji3esBPzMBHgcSpZe/ITAfy---X-SEMAC?node-id=0-1&p=f&t=UFdHxtgbITG0oY6x-0)
 
 
 ## 📌 Observação
