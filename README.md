@@ -23,7 +23,7 @@ Este repositório reúne conteúdos, materiais de apoio e links úteis para auxi
 - [Acesse o projeto no figma](https://www.figma.com/design/bcPCZji3esBPzMBHgcSpZe/ITAfy---X-SEMAC?node-id=0-1&p=f&t=UFdHxtgbITG0oY6x-0)
 
 ### Protótipo de baixa fidelidade
--[Acesse no canva](https://www.canva.com/design/DAG5qNYqJZ4/JYm_CN-yA5eM3i1b5T13PQ/edit?utm_content=DAG5qNYqJZ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+- [Acesse no canva](https://www.canva.com/design/DAG5qNYqJZ4/JYm_CN-yA5eM3i1b5T13PQ/edit?utm_content=DAG5qNYqJZ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 
 ### Link do Slide 
