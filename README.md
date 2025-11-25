@@ -22,6 +22,10 @@ Este repositório reúne conteúdos, materiais de apoio e links úteis para auxi
 ### Protótipo figma
 - [Acesse o projeto no figma](https://www.figma.com/design/bcPCZji3esBPzMBHgcSpZe/ITAfy---X-SEMAC?node-id=0-1&p=f&t=UFdHxtgbITG0oY6x-0)
 
+### Prototipo de baixa fidelidade
+-[Acesse no canva]. (https://www.canva.com/design/DAG5qNYqJZ4/JYm_CN-yA5eM3i1b5T13PQ/edit?utm_content=DAG5qNYqJZ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
+
 ### Link do Slide 
 - [Acesse o slide no canva](https://www.canva.com/design/DAG2jJmxg_k/d3i-oYkVYD3pUId7Ff3kKQ/edit?utm_content=DAG2jJmxg_k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
